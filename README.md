@@ -22,6 +22,7 @@ There are 3 kinds of users:
 * Books management - remove books from sale.
 * Watch bid history of each book.
 * Watch transaction history of every user.
+
 ---
 ###General Idea ###
 * Each registered user have a personal hompage which suggests the best sellers in case that there is no information about the user or *books you may like* in case we collected information about the user. 
