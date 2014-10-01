@@ -15,8 +15,8 @@ There are 3 kinds of users:
 
 
 ***Guest User -*** can sign up, browse books and search for other users.  
-***Registered User - *** has privileges as the *guest user* but in addition can post books for sale, buy books,rate books, complain about other users or books and send messages to *superusers* and look in his profile statistics.  
-*** Superuser - *** has all the privileges of the *registered user* and in addition:  
+***Registered User -*** has privileges as the *guest user* but in addition can post books for sale, buy books,rate books, complain about other users or books and send messages to *superusers* and look in his profile statistics.  
+*** Superuser -*** has all the privileges of the *registered user* and in addition:  
 
 * User management - approving and suspending users. 
 * Books management - remove books from sale.
