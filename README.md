@@ -42,32 +42,6 @@ There are 3 kinds of users:
 ## Requirements ##
 [MySQL](http://www.mysql.com/downloads/) installed on the machine.
 
-##Libraries in use##
-* Flask
-* Flask-Login
-* Flask-Mail
-* Flask-SQLAlchemy
-* Flask-WTF
-* Jinja2
-* MarkupSafe
-* MySQL-python
-* SQLAlchemy
-* Tempita
-* WTForms
-* Werkzeug
-* argparse
-* blinker
-* decorator
-* itsdangerous
-* sqlalchemy-migrate
-* stevedore
-* virtualenv
-* virtualenv-clone
-* virtualenvwrapper
-* wsgiref
-
-
-
 
 ## Installation #
 Clone Repository And Install Libraries.
@@ -127,3 +101,26 @@ You will be redirected to the homepage.
 
 
 
+##Libraries in use##
+* Flask
+* Flask-Login
+* Flask-Mail
+* Flask-SQLAlchemy
+* Flask-WTF
+* Jinja2
+* MarkupSafe
+* MySQL-python
+* SQLAlchemy
+* Tempita
+* WTForms
+* Werkzeug
+* argparse
+* blinker
+* decorator
+* itsdangerous
+* sqlalchemy-migrate
+* stevedore
+* virtualenv
+* virtualenv-clone
+* virtualenvwrapper
+* wsgiref
