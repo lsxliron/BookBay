@@ -1,8 +1,8 @@
 # BookBay #
 
 ## About This Project##
-This web application was created as a final project in software engineering.  
-It is a book sale site (EBay style) written in *python* and using the [Flask](http://flask.pocoo.org) framework.
+This web application was created as a final project in software engineering course together with another 2 classmates.  
+It is a book sale site (eBay style) written in *python* and using the [Flask](http://flask.pocoo.org) framework.
 
 #### Project Ourline####
 You can find detailed information about this project in the SRS document in the docs folder. 
