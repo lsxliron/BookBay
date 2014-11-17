@@ -91,7 +91,7 @@ python runserver.py
 
 
 ### Usage ###
-The first time you will user the app you need to create an admin account. To do that open your browser and navigate to [localhost:5000/get_admin_account](localhost:5000/get_admin_account).  
+The first time you will user the app you need to create an admin account. To do that open your browser and navigate to ```localhost:5000/get_admin_account```
 You will be redirected to the homepage.  
 
 **Admin account:**  
